@@ -10,7 +10,7 @@
   }
 
   .header-row {
-    background-color: orange;
+    background-color: plum;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -55,7 +55,7 @@
   }
 
   button {
-    background-color: teal;
+    background-color: pink;
     padding: 10px;
     color: white;
     border: none;
